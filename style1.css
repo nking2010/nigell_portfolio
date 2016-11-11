@@ -1,0 +1,28 @@
+header {
+    align-content: center;
+    font-family: times new roman;
+    font-size: 35px;
+    padding-left: 36%;
+    color: blue;
+}
+body {
+      font-family: sans-serif;
+      /*margin: center;*/
+        /*width: 50%;*/
+      padding: 10px;
+      background-color: #4285f4;
+        }
+p  {
+  font-size: 22px;
+  font-family: sans-serif;
+}
+
+img.resize-profilepic {
+    height: 300px;
+    width: auto;
+    padding-left: 41%;
+}
+.wyncodeprofilepiccopy{
+    max-width: 100%;
+    height: auto;
+}
